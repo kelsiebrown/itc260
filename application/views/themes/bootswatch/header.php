@@ -26,8 +26,8 @@
           <ul class="nav navbar-nav">
             <?=makeLinks($this->config->item('nav1'))?>
 			<!--<li class="active"><a href="#" title="">Active Link</a></li>
-			<li><?=anchor('news','News')?></li>
-			<li><?=anchor('news/create','Add News')?></li>-->
+			<li>< ?=anchor('news','News')?></li>
+			<li>< ?=anchor('news/create','Add News')?></li>-->
           </ul>
         </div>
       </div>
